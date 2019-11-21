@@ -5,3 +5,7 @@ img{
   display: flex;
   flex-direction: row;
 }
+.home{
+  width: 350px;
+  float: left;
+}
