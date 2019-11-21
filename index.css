@@ -1,0 +1,7 @@
+body{
+  background-color: rgb(193, 235, 235);
+}
+img{
+  display: flex;
+  flex-direction: row;
+}
